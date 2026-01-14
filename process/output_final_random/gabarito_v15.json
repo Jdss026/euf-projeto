@@ -1,0 +1,402 @@
+[
+    {
+        "id": "fm7a.png",
+        "arquivo": "random_fm7a.png",
+        "gabarito": "G"
+    },
+    {
+        "id": "em6b.png",
+        "arquivo": "random_em6b.png",
+        "gabarito": "F"
+    },
+    {
+        "id": "mq6b.png",
+        "arquivo": "random_mq6b.png",
+        "gabarito": "E"
+    },
+    {
+        "id": "em2b.png",
+        "arquivo": "random_em2b.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "mc2a.png",
+        "arquivo": "random_mc2a.png",
+        "gabarito": "E"
+    },
+    {
+        "id": "fm4a.png",
+        "arquivo": "random_fm4a.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "te1a.png",
+        "arquivo": "random_te1a.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "fm3b.png",
+        "arquivo": "random_fm3b.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "mq7a.png",
+        "arquivo": "random_mq7a.png",
+        "gabarito": "G"
+    },
+    {
+        "id": "fe3b.png",
+        "arquivo": "random_fe3b.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "mc1a.png",
+        "arquivo": "random_mc1a.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "mq2b.png",
+        "arquivo": "random_mq2b.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "em5a.png",
+        "arquivo": "random_em5a.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "te2a.png",
+        "arquivo": "random_te2a.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "fm5a.png",
+        "arquivo": "random_fm5a.png",
+        "gabarito": "D"
+    },
+    {
+        "id": "mc4a.png",
+        "arquivo": "random_mc4a.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "mq6a.png",
+        "arquivo": "random_mq6a.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "fm8a.png",
+        "arquivo": "random_fm8a.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "mc1b.png",
+        "arquivo": "random_mc1b.png",
+        "gabarito": "E"
+    },
+    {
+        "id": "em7a.png",
+        "arquivo": "random_em7a.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "mq8a.png",
+        "arquivo": "random_mq8a.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "mq3b.png",
+        "arquivo": "random_mq3b.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "em6a.png",
+        "arquivo": "random_em6a.png",
+        "gabarito": "B"
+    },
+    {
+        "id": "te2b.png",
+        "arquivo": "random_te2b.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "te3a.png",
+        "arquivo": "random_te3a.png",
+        "gabarito": "C"
+    },
+    {
+        "id": "mc6b.png",
+        "arquivo": "random_mc6b.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "mq1a.png",
+        "arquivo": "random_mq1a.png",
+        "gabarito": "F"
+    },
+    {
+        "id": "fm5b.png",
+        "arquivo": "random_fm5b.png",
+        "gabarito": "C"
+    },
+    {
+        "id": "em1b.png",
+        "arquivo": "random_em1b.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "fe1b.png",
+        "arquivo": "random_fe1b.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "te4a.png",
+        "arquivo": "random_te4a.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "em5b.png",
+        "arquivo": "random_em5b.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "mc3b.png",
+        "arquivo": "random_mc3b.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "fm6b.png",
+        "arquivo": "random_fm6b.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "em2a.png",
+        "arquivo": "random_em2a.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "em7b.png",
+        "arquivo": "random_em7b.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "fm1a.png",
+        "arquivo": "random_fm1a.png",
+        "gabarito": "A"
+    },
+    {
+        "id": "fe4b.png",
+        "arquivo": "random_fe4b.png",
+        "gabarito": "B"
+    },
+    {
+        "id": "mc7a.png",
+        "arquivo": "random_mc7a.png",
+        "gabarito": "D"
+    },
+    {
+        "id": "fe1a.png",
+        "arquivo": "random_fe1a.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "mc8a.png",
+        "arquivo": "random_mc8a.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "mc5a.png",
+        "arquivo": "random_mc5a.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "mq1b.png",
+        "arquivo": "random_mq1b.png",
+        "gabarito": "D"
+    },
+    {
+        "id": "mc7b.png",
+        "arquivo": "random_mc7b.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "fe3a.png",
+        "arquivo": "random_fe3a.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "mc6a.png",
+        "arquivo": "random_mc6a.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "fm7b.png",
+        "arquivo": "random_fm7b.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "fm8b.png",
+        "arquivo": "random_fm8b.png",
+        "gabarito": "G"
+    },
+    {
+        "id": "fm2a.png",
+        "arquivo": "random_fm2a.png",
+        "gabarito": "D"
+    },
+    {
+        "id": "fm1b.png",
+        "arquivo": "random_fm1b.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "fm3a.png",
+        "arquivo": "random_fm3a.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "em4a.png",
+        "arquivo": "random_em4a.png",
+        "gabarito": "F"
+    },
+    {
+        "id": "fe2a.png",
+        "arquivo": "random_fe2a.png",
+        "gabarito": "F"
+    },
+    {
+        "id": "em3a.png",
+        "arquivo": "random_em3a.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "mq3a.png",
+        "arquivo": "random_mq3a.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "em1a.png",
+        "arquivo": "random_em1a.png",
+        "gabarito": "C"
+    },
+    {
+        "id": "fm2b.png",
+        "arquivo": "random_fm2b.png",
+        "gabarito": "G"
+    },
+    {
+        "id": "mc2b.png",
+        "arquivo": "random_mc2b.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "mq7b.png",
+        "arquivo": "random_mq7b.png",
+        "gabarito": "B"
+    },
+    {
+        "id": "te1b.png",
+        "arquivo": "random_te1b.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "mq4a.png",
+        "arquivo": "random_mq4a.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "em8a.png",
+        "arquivo": "random_em8a.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "fe4a.png",
+        "arquivo": "random_fe4a.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "mq5a.png",
+        "arquivo": "random_mq5a.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "mc8b.png",
+        "arquivo": "random_mc8b.png",
+        "gabarito": "D"
+    },
+    {
+        "id": "mc3a.png",
+        "arquivo": "random_mc3a.png",
+        "gabarito": "C"
+    },
+    {
+        "id": "te3b.png",
+        "arquivo": "random_te3b.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "mq5b.png",
+        "arquivo": "random_mq5b.png",
+        "gabarito": "G"
+    },
+    {
+        "id": "mc5b.png",
+        "arquivo": "random_mc5b.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "te4b.png",
+        "arquivo": "random_te4b.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "em3b.png",
+        "arquivo": "random_em3b.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "mq4b.png",
+        "arquivo": "random_mq4b.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "mq2a.png",
+        "arquivo": "random_mq2a.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "em8b.png",
+        "arquivo": "random_em8b.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "fe2b.png",
+        "arquivo": "random_fe2b.png",
+        "gabarito": "D"
+    },
+    {
+        "id": "fm6a.png",
+        "arquivo": "random_fm6a.png",
+        "gabarito": "A"
+    },
+    {
+        "id": "fm4b.png",
+        "arquivo": "random_fm4b.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "mc4b.png",
+        "arquivo": "random_mc4b.png",
+        "gabarito": "N/D"
+    },
+    {
+        "id": "em4b.png",
+        "arquivo": "random_em4b.png",
+        "gabarito": "G"
+    },
+    {
+        "id": "mq8b.png",
+        "arquivo": "random_mq8b.png",
+        "gabarito": "A"
+    }
+]

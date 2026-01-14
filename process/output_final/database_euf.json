@@ -1,0 +1,322 @@
+[
+    {
+        "ref": "mc1a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "mc1b",
+        "gabarito": "A"
+    },
+    {
+        "ref": "mc2a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "mc2b",
+        "gabarito": "A"
+    },
+    {
+        "ref": "mc3a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "mc3b",
+        "gabarito": "A"
+    },
+    {
+        "ref": "mc4a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "mc4b",
+        "gabarito": "A"
+    },
+    {
+        "ref": "mc5a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "mc5b",
+        "gabarito": "A"
+    },
+    {
+        "ref": "mc6a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "mc6b",
+        "gabarito": "A"
+    },
+    {
+        "ref": "mc7a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "mc7b",
+        "gabarito": "A"
+    },
+    {
+        "ref": "mc8a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "mc8b",
+        "gabarito": "A"
+    },
+    {
+        "ref": "em1a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "em1b",
+        "gabarito": "A"
+    },
+    {
+        "ref": "em2a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "em2b",
+        "gabarito": "A"
+    },
+    {
+        "ref": "em3a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "em3b",
+        "gabarito": "A"
+    },
+    {
+        "ref": "em4a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "em4b",
+        "gabarito": "A"
+    },
+    {
+        "ref": "em5a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "em5b",
+        "gabarito": "A"
+    },
+    {
+        "ref": "em6a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "em6b",
+        "gabarito": "A"
+    },
+    {
+        "ref": "em7a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "em7b",
+        "gabarito": "A"
+    },
+    {
+        "ref": "em8a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "em8b",
+        "gabarito": "A"
+    },
+    {
+        "ref": "te1a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "te1b",
+        "gabarito": "A"
+    },
+    {
+        "ref": "te2a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "te2b",
+        "gabarito": "A"
+    },
+    {
+        "ref": "te3a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "te3b",
+        "gabarito": "A"
+    },
+    {
+        "ref": "te4a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "te4b",
+        "gabarito": "A"
+    },
+    {
+        "ref": "fm1a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "fm1b",
+        "gabarito": "A"
+    },
+    {
+        "ref": "fm2a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "fm2b",
+        "gabarito": "A"
+    },
+    {
+        "ref": "fm3a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "fm3b",
+        "gabarito": "A"
+    },
+    {
+        "ref": "fm4a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "fm4b",
+        "gabarito": "A"
+    },
+    {
+        "ref": "fm5a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "fm5b",
+        "gabarito": "A"
+    },
+    {
+        "ref": "fm6a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "fm6b",
+        "gabarito": "A"
+    },
+    {
+        "ref": "fm7a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "fm7b",
+        "gabarito": "A"
+    },
+    {
+        "ref": "fm8a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "fm8b",
+        "gabarito": "A"
+    },
+    {
+        "ref": "mq1a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "mq1b",
+        "gabarito": "A"
+    },
+    {
+        "ref": "mq2a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "mq2b",
+        "gabarito": "A"
+    },
+    {
+        "ref": "mq3a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "mq3b",
+        "gabarito": "A"
+    },
+    {
+        "ref": "mq4a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "mq4b",
+        "gabarito": "A"
+    },
+    {
+        "ref": "mq5a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "mq5b",
+        "gabarito": "A"
+    },
+    {
+        "ref": "mq6a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "mq6b",
+        "gabarito": "A"
+    },
+    {
+        "ref": "mq7a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "mq7b",
+        "gabarito": "A"
+    },
+    {
+        "ref": "mq8a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "mq8b",
+        "gabarito": "A"
+    },
+    {
+        "ref": "fe1a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "fe1b",
+        "gabarito": "A"
+    },
+    {
+        "ref": "fe2a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "fe2b",
+        "gabarito": "A"
+    },
+    {
+        "ref": "fe3a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "fe3b",
+        "gabarito": "A"
+    },
+    {
+        "ref": "fe4a",
+        "gabarito": "A"
+    },
+    {
+        "ref": "fe4b",
+        "gabarito": "A"
+    }
+]
